@@ -2,11 +2,8 @@
 
 > Polling Nest is a full stack polling app. Users can create polls and solicit feedback from people or fans and let them vote and share in their polls. Users can also tailor their polls by incorporating videos, images and text options.The backend server was developed using Spring Boot and Spring Security along with JWT authentication. MySQL database was used for storage. The front-end application was made using React and Ant Design for designing our user interface.
 
-![Polling Nest 1](https://github.com/smyrmnsr/polling-nest-frontend/blob/master/polling-nest.png)
-![Polling Nest 2](https://github.com/smyrmnsr/polling-nest-frontend/blob/master/polling-nest1.png)
-![Polling Nest 3](https://github.com/smyrmnsr/polling-nest-frontend/blob/master/polling-nest2.png)
-![Polling Nest 4](https://github.com/smyrmnsr/polling-nest-frontend/blob/master/polling-nest3.png)
-![Polling Nest 5](https://github.com/smyrmnsr/polling-nest-frontend/blob/master/polling-nest4.png)
+![Polling Nest 1](https://github.com/smyrmnsr/polling-nest-backend/blob/master/polling-nest.png)
+![Polling Nest 2](https://github.com/smyrmnsr/polling-nest-backend/blob/master/polling-nest-mobile-2.png)
 
 ## Steps to Setup the Spring Boot Back end app (polling-nest-backend)
 
